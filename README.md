@@ -1,5 +1,7 @@
 # Hex Palette
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-jpgbmr.github.io-58a6ff?style=flat-square)](https://jpgbmr.github.io/hex-palette/)
+
 Hexadecimal color mood palette installable as PWA
 
 ## Tech Stack
